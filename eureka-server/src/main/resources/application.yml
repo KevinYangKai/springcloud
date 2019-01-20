@@ -6,4 +6,4 @@ spring:
   application:
     name: eureka-service
   profiles:
-    active: peer2
+    active: peer1
