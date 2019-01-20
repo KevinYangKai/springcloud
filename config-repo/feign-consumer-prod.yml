@@ -1,9 +1,1 @@
 from: prod-1.0
-management:
-  endpoint:
-    health:
-      show-details: always
-  endpoints:
-    web:
-      exposure:
-        include: ["health","info","refresh"]
