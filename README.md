@@ -10,3 +10,6 @@ wonders springcloud
 ### feign-consumer
 feign声明式服务调用并从配置中心获取配置文件
 **********
+### config-repo
+配置文件仓库
+**********
